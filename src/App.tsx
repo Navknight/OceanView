@@ -5,7 +5,6 @@ import { ThemeProvider } from './theme/ThemeProvider';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { UserLocaitionStateContextProvider } from './context/UserLocationStateContext';
 
-
 export const App = () => {
   return (
     <SafeAreaProvider>
