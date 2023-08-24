@@ -21,9 +21,6 @@ export const MarkerCard = ({ marker, disabled, closeMarkerCard }: MarkerCardProp
         case 'Plastic':
             videoURL = require('../../storage/BlenderVids/plastic.mp4');
             break;
-        case 'ShipWreck':
-            videoURL = require('../../storage/BlenderVids/plastic.mp4');
-            break;
         default:
             videoURL = require('../../storage/BlenderVids/oilspill.mp4');
             break;
