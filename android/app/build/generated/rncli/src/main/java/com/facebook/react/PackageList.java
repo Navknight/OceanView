@@ -23,10 +23,6 @@ import com.rnmaps.maps.MapsPackage;
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-video
 import com.brentvatne.react.ReactVideoPackage;
-// react-native-webview
-import com.reactnativecommunity.webview.RNCWebViewPackage;
-// react-native-youtube
-import com.inprogress.reactnativeyoutube.ReactNativeYouTube;
 
 public class PackageList {
   private Application application;
@@ -77,9 +73,7 @@ public class PackageList {
       new ExpoModulesPackage(),
       new MapsPackage(),
       new SafeAreaContextPackage(),
-      new ReactVideoPackage(),
-      new RNCWebViewPackage(),
-      new ReactNativeYouTube()
+      new ReactVideoPackage()
     ));
   }
 }

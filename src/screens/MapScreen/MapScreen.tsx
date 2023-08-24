@@ -7,10 +7,21 @@ import { DestinationModel } from '../../components/DestinationModel'
 import { Hamburger } from '../../components/Hamburger'
 import { Callout, Marker } from 'react-native-maps'
 import { MarkerCard } from '../../components/MarkerCard'
-
+import { retrieveData } from '../../storage/firestore/LocationReader'
 
 export const MapScreen = () => {
-    
+    const [fetchedData, setFetchedData] = useState<CustomMarker[]>([])
+    useEffect(() => {
+        const fetchDataAndStoreInState = async () => {
+            const data = await retrieveData();
+            // console.log(data)
+            // console.log("DATA PRINTED")
+            setFetchedData(data)
+            // console.log(fetchedData)
+        };
+
+        fetchDataAndStoreInState();
+    }, []);
 
     const { models, operations } = useMapScreen()
 
@@ -64,10 +75,17 @@ export const MapScreen = () => {
                         }
                         return null;
                     })}
-                
+                {/* {models.markerCard &&
+                    models.selectedMarker &&
+                    <MarkerCard
+                        closeMarkerCard={operations.closeMarkerCard}
+                        disabled={models.markerCard}
+                        marker={models.selectedMarker}
+                    />
+                } */}
             </StyledMapView>
             <RoundButton icon="ios-menu-outline" onPress={operations.closeHamburger} />
-            
+            <MapSearchBar onPress={operations.handleMapSearchBarPress} />
             <DestinationModel visible={models.modelVisible} closeModel={operations.closeDestinationModel} />
             <Hamburger disabled={models.hamVisible} closeHam={operations.closeHamburger} />
         </Container>
