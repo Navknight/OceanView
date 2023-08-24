@@ -1,4 +1,4 @@
-# swe-android-app
+# OceanView
 An android app developed as part of the SWE course, meant to address SDG-14, Life Under Water
 
 Written in React Native, it shows viewers a map screen with the Google Maps API. When a pin is clicked, it then opens up a video display that holds a (rendered) video and infocard about that pinned location.
@@ -10,6 +10,14 @@ Locations come in many varieties:
 4. Damaged coral reefs
 5. Shipwrecks
 6. Land reclamation projects
+
+## Dependencies
+
+The dependencies can be resolved using:
+
+```bash
+npm i
+```
 
 This is a [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
