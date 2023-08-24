@@ -12,17 +12,29 @@ interface MarkerCardProps {
 }
 
 export const MarkerCard = ({ marker, disabled, closeMarkerCard }: MarkerCardProps) => {
-    let videoURL: any = require('../../storage/BlenderVids/Oilspill.mp4');
+    let videoURL: any = require('../../storage/displayVideos/OilSpill.mp4');
 
     switch (marker.event_type) {
         case 'OilSpill':
-            videoURL = require('../../storage/BlenderVids/Oilspill.mp4');
+            videoURL = require('../../storage/displayVideos/OilSpill.mp4');
             break;
         case 'Plastic':
-            videoURL = require('../../storage/BlenderVids/Plastic.mp4');
+            videoURL = require('../../storage/displayVideos/Plastic.mp4');
+            break;
+        case 'ShipWreck':
+            videoURL = require('../../storage/displayVideos/ShipWreck.mp4');
+            break;
+        case 'CoralReef':
+            videoURL = require('../../storage/displayVideos/CoralReefDestroyed.mp4');
+            break;
+        case 'Preservation':
+            videoURL = require('../../storage/displayVideos/MarinePreservation.mp4');
+            break;
+        case 'Reclamation':
+            videoURL = require('../../storage/displayVideos/LandReclamation.mp4');
             break;
         default:
-            videoURL = require('../../storage/BlenderVids/Oilspill.mp4');
+            videoURL = require('../../storage/displayVideos/OilSpill.mp4');
             break;
     }
 
