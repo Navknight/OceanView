@@ -1,0 +1,3 @@
+OilSpil:- Footage taken from NOAA, owner- BP Oil
+
+LandReclamation:- Satellite Imagery from Google Earth, Airport- Hamad International Airport, Qatar
