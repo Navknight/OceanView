@@ -17,10 +17,24 @@ export const DestinationModel = ({ visible, closeModel }: DestinationModelProps)
 
     const [items, setItems] = useState<{key: string, name: string}[]>([]);
 
+    useEffect(() => {
+        const fetchData = async () => {
+            const results = await partialMatcher(models.destinationInputText);
+            setItems(results);
+        };
+
+        fetchData();
+    }, [models.destinationInputText]);
 
 
+    const renderFlatlistItem = ({item}: {item: {key: string, name: string}}) => {
+        console.log("FlatItem rendered");
+        return (
+            <ItemContainer>
+                <Text style={{fontWeight: 'bold'}}>{item.name}</Text>
+            </ItemContainer>);
+    }
 
-    
     const handleOnPress = () => {
         console.log("onPress");
         closeModel();
