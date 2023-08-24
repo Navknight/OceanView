@@ -34,9 +34,29 @@ export const useMapScreen = () => {
     const [selectedId, setSelectedId] = useState<string | undefined>()
 
 
-    
+    useEffect(() => {
+        if (userLocation) {
+            mapRef.current?.animateToRegion({
+                longitude: userLocation.coords.longitude,
+                latitude: userLocation.coords.latitude,
+                longitudeDelta: LONGITUDE_DELTA,
+                latitudeDelta: LATITUDE_DELTA,
+            })
+        }
+    }, [userLocation])
 
-    
+    const handleUserLocationChange = ({ nativeEvent: { coordinate } }: UserLocationChangeEvent) => {
+        if (coordinate) {
+            setUserLocation(
+                {
+                    coords: {
+                        latitude: coordinate.latitude,
+                        longitude: coordinate.longitude
+                    }
+                }
+            )
+        }
+    }
 
     const handleMapSearchBarPress = () => {
         setModelVisible(true)
