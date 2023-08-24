@@ -4,6 +4,7 @@ import { LocationPermissionsService } from './storage/LocationPermissionsService
 import { ThemeProvider } from './theme/ThemeProvider';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { UserLocaitionStateContextProvider } from './context/UserLocationStateContext';
+import { retrieveData } from './storage/firestore/LocationReader';
 
 export const App = () => {
   return (
