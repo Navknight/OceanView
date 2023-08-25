@@ -15,7 +15,7 @@ export const Input = styled.TextInput(({ theme }) => {
     return {
         minHeight: scale(42),
         width: Dimensions.get('window').width - scale(50),
-        paddingHorizontal: scale(5),
+        paddingHorizontal: scale(15),
         backgroundColor: theme.colors.components.destinationInput.activeBackground,
         //color defined in DestinationInput.tsx
         borderRadius: 40,

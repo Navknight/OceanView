@@ -5,6 +5,7 @@ const pallette = {
     lightGrey: 'rgba(100,100,100,0.35)',
     lighterGrey: 'rgba(100,100,100,0.1)',
     blue: '#4a80f5',
+    midBlue: '#0083ff',
 };
 
 export const colors = {
@@ -12,6 +13,7 @@ export const colors = {
         body: pallette.grey,
         textDisabled: pallette.lightGrey,
         common: pallette.black,
+        searchbar: pallette.white,
     },
     common: {
         background: pallette.white,
@@ -22,8 +24,8 @@ export const colors = {
             squareColor: pallette.black,
         },
         destinationInput: {
-            disabledBackground: pallette.lighterGrey,
-            activeBackground: pallette.lightGrey,
+            disabledBackground: pallette.lightGrey,
+            activeBackground: pallette.grey,
         },
         destinationModal: {
             decoratorCircle: pallette.grey,

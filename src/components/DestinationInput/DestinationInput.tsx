@@ -31,7 +31,7 @@ export const DestinationInput = ({
             onChangeText={onChangeText}
             autoFocus={autoFocus}
             {...sharedProps}
-            placeholderTextColor={theme.colors.typography.common}
+            placeholderTextColor={theme.colors.typography.searchbar}
             value={value}
         />)
 

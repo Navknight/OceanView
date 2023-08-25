@@ -9,473 +9,473 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/home/artemisia/OceanView/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/home/artemisia/OceanView/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/home/keshav/Desktop/OceanView/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/keshav/Desktop/OceanView/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:3:5-67
-12-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:3:22-64
+12-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:3:5-67
+12-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:3:22-64
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-13-->[com.facebook.flipper:flipper:0.182.0] /home/artemisia/.gradle/caches/transforms-3/2c4aa7449f1f2904e68bb900cc469463/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:5-76
-13-->[com.facebook.flipper:flipper:0.182.0] /home/artemisia/.gradle/caches/transforms-3/2c4aa7449f1f2904e68bb900cc469463/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:22-73
+13-->[com.facebook.flipper:flipper:0.182.0] /home/keshav/.gradle/caches/transforms-3/2c4aa7449f1f2904e68bb900cc469463/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.182.0] /home/keshav/.gradle/caches/transforms-3/2c4aa7449f1f2904e68bb900cc469463/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:22-73
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->[:react-native-community_netinfo] /home/artemisia/OceanView/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-79
-14-->[:react-native-community_netinfo] /home/artemisia/OceanView/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-76
+14-->[:react-native-community_netinfo] /home/keshav/Desktop/OceanView/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-79
+14-->[:react-native-community_netinfo] /home/keshav/Desktop/OceanView/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-76
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
-15-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+15-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+15-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-80
-16-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-77
+16-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-80
+16-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-77
 17
 18    <queries>
-18-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-18:15
+18-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-18:15
 19
 20        <!-- Query open documents -->
 21        <intent>
-21-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-17:18
+21-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-17:18
 22            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
-22-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-79
-22-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:21-76
+22-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-79
+22-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:21-76
 23        </intent>
 24        <!-- Needs to be explicitly declared on Android R+ -->
 25        <package android:name="com.google.android.apps.maps" />
-25-->[com.google.android.gms:play-services-maps:18.0.2] /home/artemisia/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
-25-->[com.google.android.gms:play-services-maps:18.0.2] /home/artemisia/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+25-->[com.google.android.gms:play-services-maps:18.0.2] /home/keshav/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+25-->[com.google.android.gms:play-services-maps:18.0.2] /home/keshav/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
 26    </queries>
 27
 28    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-28-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-81
-28-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-78
+28-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-81
+28-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-78
 29    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-29-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
-29-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:22-76
+29-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
+29-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:22-76
 30    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-30-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
-30-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
+30-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+30-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
 31
 32    <uses-feature
-32-->[com.google.android.gms:play-services-maps:18.0.2] /home/artemisia/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+32-->[com.google.android.gms:play-services-maps:18.0.2] /home/keshav/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
 33        android:glEsVersion="0x00020000"
-33-->[com.google.android.gms:play-services-maps:18.0.2] /home/artemisia/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+33-->[com.google.android.gms:play-services-maps:18.0.2] /home/keshav/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
 34        android:required="true" />
-34-->[com.google.android.gms:play-services-maps:18.0.2] /home/artemisia/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+34-->[com.google.android.gms:play-services-maps:18.0.2] /home/keshav/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
 35
 36    <uses-permission android:name="android.permission.WAKE_LOCK" />
-36-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
-36-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:22-65
+36-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+36-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:22-65
 37    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-37-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
-37-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:22-78
+37-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+37-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:22-78
 38    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-38-->[com.android.installreferrer:installreferrer:1.0] /home/artemisia/.gradle/caches/transforms-3/e8d18f07472d2960c191bc3fc9352d16/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
-38-->[com.android.installreferrer:installreferrer:1.0] /home/artemisia/.gradle/caches/transforms-3/e8d18f07472d2960c191bc3fc9352d16/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+38-->[com.android.installreferrer:installreferrer:1.0] /home/keshav/.gradle/caches/transforms-3/e8d18f07472d2960c191bc3fc9352d16/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+38-->[com.android.installreferrer:installreferrer:1.0] /home/keshav/.gradle/caches/transforms-3/e8d18f07472d2960c191bc3fc9352d16/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
 39    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
-39-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:15:5-98
-39-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:15:22-95
+39-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:15:5-98
+39-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:15:22-95
 40    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
-40-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:16:5-94
-40-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:16:22-91
+40-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:16:5-94
+40-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:16:22-91
 41
 42    <application
-42-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:5:5-27:19
+42-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:5:5-27:19
 43        android:name="com.oceanview.MainApplication"
-43-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:6:7-38
+43-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:6:7-38
 44        android:allowBackup="false"
-44-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:10:7-34
+44-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:10:7-34
 45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-45-->[androidx.core:core:1.8.0] /home/artemisia/.gradle/caches/transforms-3/54b627b2396f4ccbd9b49567a98d1954/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+45-->[androidx.core:core:1.8.0] /home/keshav/.gradle/caches/transforms-3/54b627b2396f4ccbd9b49567a98d1954/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 46        android:debuggable="true"
 47        android:icon="@mipmap/ic_launcher"
-47-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:8:7-41
+47-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:8:7-41
 48        android:label="@string/app_name"
-48-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:7:7-39
+48-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:7:7-39
 49        android:roundIcon="@mipmap/ic_launcher_round"
-49-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:9:7-52
+49-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:9:7-52
 50        android:theme="@style/AppTheme"
-50-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:11:7-38
+50-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:11:7-38
 51        android:usesCleartextTraffic="true" >
-51-->/home/artemisia/OceanView/android/app/src/debug/AndroidManifest.xml:8:9-44
+51-->/home/keshav/Desktop/OceanView/android/app/src/debug/AndroidManifest.xml:8:9-44
 52        <activity
-52-->/home/artemisia/OceanView/android/app/src/debug/AndroidManifest.xml:11:9-111
+52-->/home/keshav/Desktop/OceanView/android/app/src/debug/AndroidManifest.xml:11:9-111
 53            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-53-->/home/artemisia/OceanView/android/app/src/debug/AndroidManifest.xml:11:19-83
+53-->/home/keshav/Desktop/OceanView/android/app/src/debug/AndroidManifest.xml:11:19-83
 54            android:exported="false" />
-54-->/home/artemisia/OceanView/android/app/src/debug/AndroidManifest.xml:11:84-108
+54-->/home/keshav/Desktop/OceanView/android/app/src/debug/AndroidManifest.xml:11:84-108
 55
 56        <meta-data
-56-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:12:7-14:64
+56-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:12:7-14:64
 57            android:name="com.google.android.geo.API_KEY"
-57-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:13:7-52
+57-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:13:7-52
 58            android:value="AIzaSyCoJXgSWYVf7TyiF3oPM3V1cTcUPb8B_5o" />
-58-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:14:7-62
+58-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:14:7-62
 59
 60        <activity
-60-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:15:7-26:18
+60-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:15:7-26:18
 61            android:name="com.oceanview.MainActivity"
-61-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:16:9-37
+61-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:16:9-37
 62            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-62-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:18:9-118
+62-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:18:9-118
 63            android:exported="true"
-63-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:21:9-32
+63-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:21:9-32
 64            android:label="@string/app_name"
-64-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:17:9-41
+64-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:17:9-41
 65            android:launchMode="singleTask"
-65-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:19:9-40
+65-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:19:9-40
 66            android:windowSoftInputMode="adjustResize" >
-66-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:20:9-51
+66-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:20:9-51
 67            <intent-filter>
-67-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:22:9-25:25
+67-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:22:9-25:25
 68                <action android:name="android.intent.action.MAIN" />
-68-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:23:13-65
-68-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:23:21-62
+68-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:23:13-65
+68-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:23:21-62
 69
 70                <category android:name="android.intent.category.LAUNCHER" />
-70-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:24:13-73
-70-->/home/artemisia/OceanView/android/app/src/main/AndroidManifest.xml:24:23-70
+70-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:24:13-73
+70-->/home/keshav/Desktop/OceanView/android/app/src/main/AndroidManifest.xml:24:23-70
 71            </intent-filter>
 72        </activity>
 73
 74        <provider
-74-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-30:20
+74-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-30:20
 75            android:name="expo.modules.filesystem.FileSystemFileProvider"
-75-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-74
+75-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-74
 76            android:authorities="com.oceanview.FileSystemFileProvider"
-76-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-74
+76-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-74
 77            android:exported="false"
-77-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-37
+77-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-37
 78            android:grantUriPermissions="true" >
-78-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-47
+78-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-47
 79            <meta-data
-79-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-29:70
+79-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-29:70
 80                android:name="android.support.FILE_PROVIDER_PATHS"
-80-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-67
+80-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-67
 81                android:resource="@xml/file_system_provider_paths" />
-81-->[:expo-file-system] /home/artemisia/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-67
+81-->[:expo-file-system] /home/keshav/Desktop/OceanView/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-67
 82        </provider>
 83
 84        <service
-84-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-15:56
+84-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-15:56
 85            android:name="expo.modules.location.services.LocationTaskService"
-85-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-78
+85-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-78
 86            android:exported="false"
-86-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
+86-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
 87            android:foregroundServiceType="location" />
-87-->[:expo-location] /home/artemisia/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-53
+87-->[:expo-location] /home/keshav/Desktop/OceanView/node_modules/expo-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-53
 88
 89        <meta-data
-89-->[:expo-modules-core] /home/artemisia/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:9-11:89
+89-->[:expo-modules-core] /home/keshav/Desktop/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:9-11:89
 90            android:name="org.unimodules.core.AppLoader#react-native-headless"
-90-->[:expo-modules-core] /home/artemisia/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-79
+90-->[:expo-modules-core] /home/keshav/Desktop/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-79
 91            android:value="expo.modules.adapters.react.apploader.RNHeadlessAppLoader" />
-91-->[:expo-modules-core] /home/artemisia/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-86
+91-->[:expo-modules-core] /home/keshav/Desktop/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-86
 92        <meta-data
-92-->[:expo-modules-core] /home/artemisia/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-15:45
+92-->[:expo-modules-core] /home/keshav/Desktop/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-15:45
 93            android:name="com.facebook.soloader.enabled"
-93-->[:expo-modules-core] /home/artemisia/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-57
+93-->[:expo-modules-core] /home/keshav/Desktop/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-57
 94            android:value="true" /> <!-- Needs to be explicitly declared on P+ -->
-94-->[:expo-modules-core] /home/artemisia/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
+94-->[:expo-modules-core] /home/keshav/Desktop/OceanView/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
 95        <uses-library
-95-->[com.google.android.gms:play-services-maps:18.0.2] /home/artemisia/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+95-->[com.google.android.gms:play-services-maps:18.0.2] /home/keshav/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
 96            android:name="org.apache.http.legacy"
-96-->[com.google.android.gms:play-services-maps:18.0.2] /home/artemisia/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+96-->[com.google.android.gms:play-services-maps:18.0.2] /home/keshav/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
 97            android:required="false" />
-97-->[com.google.android.gms:play-services-maps:18.0.2] /home/artemisia/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+97-->[com.google.android.gms:play-services-maps:18.0.2] /home/keshav/.gradle/caches/transforms-3/a39d5af885abfec723ce2b144fa628e9/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
 98
 99        <activity
-99-->[com.google.android.gms:play-services-base:18.1.0] /home/artemisia/.gradle/caches/transforms-3/daf16fedbbf50ddf396d2a22a1b4f402/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+99-->[com.google.android.gms:play-services-base:18.1.0] /home/keshav/.gradle/caches/transforms-3/daf16fedbbf50ddf396d2a22a1b4f402/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
 100            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-100-->[com.google.android.gms:play-services-base:18.1.0] /home/artemisia/.gradle/caches/transforms-3/daf16fedbbf50ddf396d2a22a1b4f402/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+100-->[com.google.android.gms:play-services-base:18.1.0] /home/keshav/.gradle/caches/transforms-3/daf16fedbbf50ddf396d2a22a1b4f402/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
 101            android:exported="false"
-101-->[com.google.android.gms:play-services-base:18.1.0] /home/artemisia/.gradle/caches/transforms-3/daf16fedbbf50ddf396d2a22a1b4f402/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+101-->[com.google.android.gms:play-services-base:18.1.0] /home/keshav/.gradle/caches/transforms-3/daf16fedbbf50ddf396d2a22a1b4f402/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
 102            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-102-->[com.google.android.gms:play-services-base:18.1.0] /home/artemisia/.gradle/caches/transforms-3/daf16fedbbf50ddf396d2a22a1b4f402/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+102-->[com.google.android.gms:play-services-base:18.1.0] /home/keshav/.gradle/caches/transforms-3/daf16fedbbf50ddf396d2a22a1b4f402/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
 103
 104        <meta-data
-104-->[com.google.android.gms:play-services-basement:18.1.0] /home/artemisia/.gradle/caches/transforms-3/7c83710d4efcf7e3967794f9c663a454/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+104-->[com.google.android.gms:play-services-basement:18.1.0] /home/keshav/.gradle/caches/transforms-3/7c83710d4efcf7e3967794f9c663a454/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
 105            android:name="com.google.android.gms.version"
-105-->[com.google.android.gms:play-services-basement:18.1.0] /home/artemisia/.gradle/caches/transforms-3/7c83710d4efcf7e3967794f9c663a454/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+105-->[com.google.android.gms:play-services-basement:18.1.0] /home/keshav/.gradle/caches/transforms-3/7c83710d4efcf7e3967794f9c663a454/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
 106            android:value="@integer/google_play_services_version" />
-106-->[com.google.android.gms:play-services-basement:18.1.0] /home/artemisia/.gradle/caches/transforms-3/7c83710d4efcf7e3967794f9c663a454/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+106-->[com.google.android.gms:play-services-basement:18.1.0] /home/keshav/.gradle/caches/transforms-3/7c83710d4efcf7e3967794f9c663a454/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
 107
 108        <provider
-108-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:31:9-39:20
+108-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:31:9-39:20
 109            android:name="androidx.startup.InitializationProvider"
-109-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:32:13-67
+109-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:32:13-67
 110            android:authorities="com.oceanview.androidx-startup"
-110-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:33:13-68
+110-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:33:13-68
 111            android:exported="false" >
-111-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:34:13-37
+111-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:34:13-37
 112            <meta-data
-112-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:36:13-38:52
+112-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:36:13-38:52
 113                android:name="androidx.work.WorkManagerInitializer"
-113-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:37:17-68
+113-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:37:17-68
 114                android:value="androidx.startup" />
-114-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:38:17-49
+114-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:38:17-49
 115            <meta-data
-115-->[androidx.emoji2:emoji2:1.0.0] /home/artemisia/.gradle/caches/transforms-3/917183cb484c5d05637f617d5972f589/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+115-->[androidx.emoji2:emoji2:1.0.0] /home/keshav/.gradle/caches/transforms-3/917183cb484c5d05637f617d5972f589/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
 116                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-116-->[androidx.emoji2:emoji2:1.0.0] /home/artemisia/.gradle/caches/transforms-3/917183cb484c5d05637f617d5972f589/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+116-->[androidx.emoji2:emoji2:1.0.0] /home/keshav/.gradle/caches/transforms-3/917183cb484c5d05637f617d5972f589/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
 117                android:value="androidx.startup" />
-117-->[androidx.emoji2:emoji2:1.0.0] /home/artemisia/.gradle/caches/transforms-3/917183cb484c5d05637f617d5972f589/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+117-->[androidx.emoji2:emoji2:1.0.0] /home/keshav/.gradle/caches/transforms-3/917183cb484c5d05637f617d5972f589/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
 118            <meta-data
-118-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/artemisia/.gradle/caches/transforms-3/f4faff7c987e2993f551f89d5b982038/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+118-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/keshav/.gradle/caches/transforms-3/f4faff7c987e2993f551f89d5b982038/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
 119                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-119-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/artemisia/.gradle/caches/transforms-3/f4faff7c987e2993f551f89d5b982038/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+119-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/keshav/.gradle/caches/transforms-3/f4faff7c987e2993f551f89d5b982038/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
 120                android:value="androidx.startup" />
-120-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/artemisia/.gradle/caches/transforms-3/f4faff7c987e2993f551f89d5b982038/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+120-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/keshav/.gradle/caches/transforms-3/f4faff7c987e2993f551f89d5b982038/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
 121            <meta-data
-121-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+121-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
 122                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-122-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
 123                android:value="androidx.startup" />
-123-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
 124        </provider>
 125
 126        <service
-126-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:41:9-46:35
+126-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:41:9-46:35
 127            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
-127-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:42:13-88
+127-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:42:13-88
 128            android:directBootAware="false"
-128-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:43:13-44
+128-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:43:13-44
 129            android:enabled="@bool/enable_system_alarm_service_default"
-129-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:44:13-72
+129-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:44:13-72
 130            android:exported="false" />
-130-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:45:13-37
+130-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:45:13-37
 131        <service
-131-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:47:9-53:35
+131-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:47:9-53:35
 132            android:name="androidx.work.impl.background.systemjob.SystemJobService"
-132-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:48:13-84
+132-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:48:13-84
 133            android:directBootAware="false"
-133-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:49:13-44
+133-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:49:13-44
 134            android:enabled="@bool/enable_system_job_service_default"
-134-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:50:13-70
+134-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:50:13-70
 135            android:exported="true"
-135-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:51:13-36
+135-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:51:13-36
 136            android:permission="android.permission.BIND_JOB_SERVICE" />
-136-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:52:13-69
+136-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:52:13-69
 137        <service
-137-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:54:9-59:35
+137-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:54:9-59:35
 138            android:name="androidx.work.impl.foreground.SystemForegroundService"
-138-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:55:13-81
+138-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:55:13-81
 139            android:directBootAware="false"
-139-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:56:13-44
+139-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:56:13-44
 140            android:enabled="@bool/enable_system_foreground_service_default"
-140-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:57:13-77
+140-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:57:13-77
 141            android:exported="false" />
-141-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:58:13-37
+141-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:58:13-37
 142
 143        <receiver
-143-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:61:9-66:35
+143-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:61:9-66:35
 144            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
-144-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:62:13-88
+144-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:62:13-88
 145            android:directBootAware="false"
-145-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:63:13-44
+145-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:63:13-44
 146            android:enabled="true"
-146-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:64:13-35
+146-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:64:13-35
 147            android:exported="false" />
-147-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:65:13-37
+147-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:65:13-37
 148        <receiver
-148-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:67:9-77:20
+148-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:67:9-77:20
 149            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
-149-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:68:13-106
+149-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:68:13-106
 150            android:directBootAware="false"
-150-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:69:13-44
+150-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:69:13-44
 151            android:enabled="false"
-151-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:70:13-36
+151-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:70:13-36
 152            android:exported="false" >
-152-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:71:13-37
+152-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:71:13-37
 153            <intent-filter>
-153-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:73:13-76:29
+153-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:73:13-76:29
 154                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
-154-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:17-87
-154-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:25-84
+154-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:17-87
+154-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:25-84
 155                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
-155-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:17-90
-155-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:25-87
+155-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:17-90
+155-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:25-87
 156            </intent-filter>
 157        </receiver>
 158        <receiver
-158-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:78:9-88:20
+158-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:78:9-88:20
 159            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
-159-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:79:13-104
+159-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:79:13-104
 160            android:directBootAware="false"
-160-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:80:13-44
+160-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:80:13-44
 161            android:enabled="false"
-161-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:81:13-36
+161-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:81:13-36
 162            android:exported="false" >
-162-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:82:13-37
+162-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:82:13-37
 163            <intent-filter>
-163-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:84:13-87:29
+163-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:84:13-87:29
 164                <action android:name="android.intent.action.BATTERY_OKAY" />
-164-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:17-77
-164-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:25-74
+164-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:17-77
+164-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:25-74
 165                <action android:name="android.intent.action.BATTERY_LOW" />
-165-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:17-76
-165-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:25-73
+165-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:17-76
+165-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:25-73
 166            </intent-filter>
 167        </receiver>
 168        <receiver
-168-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:89:9-99:20
+168-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:89:9-99:20
 169            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
-169-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:90:13-104
+169-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:90:13-104
 170            android:directBootAware="false"
-170-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:91:13-44
+170-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:91:13-44
 171            android:enabled="false"
-171-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:92:13-36
+171-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:92:13-36
 172            android:exported="false" >
-172-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:93:13-37
+172-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:93:13-37
 173            <intent-filter>
-173-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:95:13-98:29
+173-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:95:13-98:29
 174                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
-174-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:17-83
-174-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:25-80
+174-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:17-83
+174-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:25-80
 175                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
-175-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:17-82
-175-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:25-79
+175-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:17-82
+175-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:25-79
 176            </intent-filter>
 177        </receiver>
 178        <receiver
-178-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:100:9-109:20
+178-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:100:9-109:20
 179            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
-179-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:101:13-103
+179-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:101:13-103
 180            android:directBootAware="false"
-180-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:102:13-44
+180-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:102:13-44
 181            android:enabled="false"
-181-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:103:13-36
+181-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:103:13-36
 182            android:exported="false" >
-182-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:104:13-37
+182-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:104:13-37
 183            <intent-filter>
-183-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:106:13-108:29
+183-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:106:13-108:29
 184                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-184-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:17-79
-184-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:25-76
+184-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:17-79
+184-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:25-76
 185            </intent-filter>
 186        </receiver>
 187        <receiver
-187-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:110:9-121:20
+187-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:110:9-121:20
 188            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
-188-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:111:13-88
+188-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:111:13-88
 189            android:directBootAware="false"
-189-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:112:13-44
+189-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:112:13-44
 190            android:enabled="false"
-190-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:113:13-36
+190-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:113:13-36
 191            android:exported="false" >
-191-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:114:13-37
+191-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:114:13-37
 192            <intent-filter>
-192-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:116:13-120:29
+192-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:116:13-120:29
 193                <action android:name="android.intent.action.BOOT_COMPLETED" />
-193-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:117:17-79
-193-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:117:25-76
+193-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:117:17-79
+193-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:117:25-76
 194                <action android:name="android.intent.action.TIME_SET" />
-194-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:17-73
-194-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:25-70
+194-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:17-73
+194-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:25-70
 195                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
-195-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:17-81
-195-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:25-78
+195-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:17-81
+195-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:25-78
 196            </intent-filter>
 197        </receiver>
 198        <receiver
-198-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:122:9-131:20
+198-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:122:9-131:20
 199            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
-199-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:123:13-99
+199-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:123:13-99
 200            android:directBootAware="false"
-200-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:124:13-44
+200-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:124:13-44
 201            android:enabled="@bool/enable_system_alarm_service_default"
-201-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:125:13-72
+201-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:125:13-72
 202            android:exported="false" >
-202-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:126:13-37
+202-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:126:13-37
 203            <intent-filter>
-203-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:128:13-130:29
+203-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:128:13-130:29
 204                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
-204-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:17-98
-204-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:25-95
+204-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:17-98
+204-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:25-95
 205            </intent-filter>
 206        </receiver>
 207        <receiver
-207-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:132:9-142:20
+207-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:132:9-142:20
 208            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
-208-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:133:13-78
+208-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:133:13-78
 209            android:directBootAware="false"
-209-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:134:13-44
+209-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:134:13-44
 210            android:enabled="true"
-210-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:135:13-35
+210-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:135:13-35
 211            android:exported="true"
-211-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:136:13-36
+211-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:136:13-36
 212            android:permission="android.permission.DUMP" >
-212-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:137:13-57
+212-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:137:13-57
 213            <intent-filter>
-213-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:139:13-141:29
+213-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:139:13-141:29
 214                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
-214-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:17-88
-214-->[androidx.work:work-runtime:2.7.1] /home/artemisia/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:25-85
+214-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:17-88
+214-->[androidx.work:work-runtime:2.7.1] /home/keshav/.gradle/caches/transforms-3/499f672330154baf07385c37849660e9/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:25-85
 215            </intent-filter>
 216        </receiver>
 217
 218        <service
-218-->[androidx.room:room-runtime:2.2.5] /home/artemisia/.gradle/caches/transforms-3/00dc6d78f7f797c02df64e6ed01941a8/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+218-->[androidx.room:room-runtime:2.2.5] /home/keshav/.gradle/caches/transforms-3/00dc6d78f7f797c02df64e6ed01941a8/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
 219            android:name="androidx.room.MultiInstanceInvalidationService"
-219-->[androidx.room:room-runtime:2.2.5] /home/artemisia/.gradle/caches/transforms-3/00dc6d78f7f797c02df64e6ed01941a8/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+219-->[androidx.room:room-runtime:2.2.5] /home/keshav/.gradle/caches/transforms-3/00dc6d78f7f797c02df64e6ed01941a8/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
 220            android:directBootAware="true"
-220-->[androidx.room:room-runtime:2.2.5] /home/artemisia/.gradle/caches/transforms-3/00dc6d78f7f797c02df64e6ed01941a8/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+220-->[androidx.room:room-runtime:2.2.5] /home/keshav/.gradle/caches/transforms-3/00dc6d78f7f797c02df64e6ed01941a8/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
 221            android:exported="false" />
-221-->[androidx.room:room-runtime:2.2.5] /home/artemisia/.gradle/caches/transforms-3/00dc6d78f7f797c02df64e6ed01941a8/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+221-->[androidx.room:room-runtime:2.2.5] /home/keshav/.gradle/caches/transforms-3/00dc6d78f7f797c02df64e6ed01941a8/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
 222
 223        <receiver
-223-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
 224            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-224-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+224-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
 225            android:directBootAware="false"
-225-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+225-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
 226            android:enabled="true"
-226-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+226-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
 227            android:exported="true"
-227-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+227-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
 228            android:permission="android.permission.DUMP" >
-228-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+228-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
 229            <intent-filter>
-229-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+229-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
 230                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-230-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
-230-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+230-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+230-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
 231            </intent-filter>
 232            <intent-filter>
-232-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+232-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
 233                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-233-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
-233-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+233-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+233-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
 234            </intent-filter>
 235            <intent-filter>
-235-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+235-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
 236                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-236-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
-236-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+236-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+236-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
 237            </intent-filter>
 238            <intent-filter>
-238-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+238-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
 239                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-239-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
-239-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/artemisia/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+239-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+239-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/keshav/.gradle/caches/transforms-3/68a4974e169c7191354edea1d87d8e71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
 240            </intent-filter>
 241        </receiver>
 242
 243        <service
-243-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:19:9-21:40
+243-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:19:9-21:40
 244            android:name="io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService"
-244-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:20:13-132
+244-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:20:13-132
 245            android:exported="false" />
-245-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:21:13-37
+245-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:21:13-37
 246        <service
-246-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:22:9-24:40
+246-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:22:9-24:40
 247            android:name="io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService"
-247-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:23:13-127
+247-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:23:13-127
 248            android:exported="false" />
-248-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:24:13-37
+248-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:24:13-37
 249        <service
-249-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:25:9-27:40
+249-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:25:9-27:40
 250            android:name="io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService"
-250-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:26:13-120
+250-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:26:13-120
 251            android:exported="false" />
-251-->[io.nlopez.smartlocation:library:3.3.3] /home/artemisia/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:27:13-37
+251-->[io.nlopez.smartlocation:library:3.3.3] /home/keshav/.gradle/caches/transforms-3/81bf90272b74674c85974a78890480c0/transformed/jetified-library-3.3.3/AndroidManifest.xml:27:13-37
 252    </application>
 253
 254</manifest>
